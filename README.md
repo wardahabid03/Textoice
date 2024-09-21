@@ -1,20 +1,23 @@
-<<<<<<< HEAD
-# read_aloud
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Textoice
->>>>>>> e6852db5f1a0654f86c9b90d4daaed960baf53b8
+
+🌍 **Break language barriers effortlessly!** Textoice is your go-to app for capturing, translating, and listening to text from any image. 
+
+## Features
+
+- **Capture & Translate**: Snap a photo and get instant translations in your selected language.
+- **Text-to-Speech**: Listen to the translated text read aloud, making it perfect for on-the-go learning.
+- **Language Support**: Choose from a variety of languages, including English, Spanish, French, German, Chinese, and Urdu.
+- **User-Friendly Interface**: Designed with a smooth and intuitive layout for easy navigation.
+
+## Technologies Used
+
+- **Flutter**: For a seamless cross-platform experience.
+- **Google ML Kit**: For powerful image processing and text recognition.
+- **Google Translator**: For accurate and quick translations.
+- **Flutter TTS**: To convert text to speech efficiently.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/wardahabid03/Textoice.git
