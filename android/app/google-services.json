@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887624952960",
+    "project_id": "read-aloud-ml",
+    "storage_bucket": "read-aloud-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887624952960:android:b4a2e85e0d58bf76ceca65",
+        "android_client_info": {
+          "package_name": "com.example.read_aloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3L6ZGg5eaytUQia7eKX1h0LyhsPGPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887624952960:android:36b9842757f3f742ceca65",
+        "android_client_info": {
+          "package_name": "com.wardah.readalou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3L6ZGg5eaytUQia7eKX1h0LyhsPGPd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
